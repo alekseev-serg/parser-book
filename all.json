@@ -1,0 +1,4228 @@
+{
+  'data': [
+    {
+      'attributes': {
+        'ancestorID': 0,
+        'level': 0,
+        'position': 1,
+        'slug': 'books',
+        'title': 'Книги'
+      },
+      'id': 18030,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 0,
+        'level': 0,
+        'position': 2,
+        'slug': 'kanctovars',
+        'title': 'Канцтовары'
+      },
+      'id': 18035,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 0,
+        'level': 0,
+        'position': 3,
+        'slug': 'souvenirs',
+        'title': 'Подарки и сувениры'
+      },
+      'id': 18038,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 0,
+        'level': 0,
+        'position': 4,
+        'slug': 'toys',
+        'title': 'Игры и игрушки'
+      },
+      'id': 18039,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 0,
+        'level': 0,
+        'position': 5,
+        'slug': 'hobbies',
+        'title': 'Творчество и хобби'
+      },
+      'id': 18200,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 0,
+        'level': 0,
+        'position': 6,
+        'slug': 'artists',
+        'title': 'Товары для художников'
+      },
+      'id': 110621,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 1,
+        'slug': 'hudozhestvennaya-literatura',
+        'title': 'Художественная литература'
+      },
+      'id': 110001,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 2,
+        'slug': 'komiksy',
+        'title': 'Комиксы'
+      },
+      'id': 110063,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 3,
+        'slug': 'manga',
+        'title': 'Манга'
+      },
+      'id': 110064,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 4,
+        'slug': 'knigi-na-anglijskom-yazyke',
+        'title': 'Книги на английском языке'
+      },
+      'id': 110065,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 5,
+        'slug': 'knigi-na-inostrannyh-yazykah',
+        'title': 'Книги на иностранных языках'
+      },
+      'id': 110075,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 6,
+        'slug': 'filologiya',
+        'title': 'Филология'
+      },
+      'id': 110081,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 7,
+        'slug': 'detskie-knigi',
+        'title': 'Детские книги'
+      },
+      'id': 110090,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 8,
+        'slug': 'knigi-dlya-podrostkov',
+        'title': 'Книги для подростков'
+      },
+      'id': 110132,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 9,
+        'slug': 'obrazovanie',
+        'title': 'Образование'
+      },
+      'id': 110140,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 10,
+        'slug': 'ehzoterika',
+        'title': 'Эзотерика'
+      },
+      'id': 110189,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 11,
+        'slug': 'medicina-i-zdorove',
+        'title': 'Медицина и здоровье'
+      },
+      'id': 110207,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 12,
+        'slug': 'krasota-moda-ehtiket',
+        'title': 'Красота. Мода. Этикет'
+      },
+      'id': 110227,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 13,
+        'slug': 'kulinariya',
+        'title': 'Кулинария'
+      },
+      'id': 110235,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 14,
+        'slug': 'dom-i-hobbi',
+        'title': 'Дом и хобби'
+      },
+      'id': 110244,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 15,
+        'slug': 'nauka-tekhnika-it',
+        'title': 'Наука. Техника. IT'
+      },
+      'id': 110282,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 16,
+        'slug': 'religiya-i-filosofiya',
+        'title': 'Религия и философия'
+      },
+      'id': 110307,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 17,
+        'slug': 'psihologiya',
+        'title': 'Психология'
+      },
+      'id': 110321,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 18,
+        'slug': 'iskusstvo',
+        'title': 'Искусство'
+      },
+      'id': 110338,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 19,
+        'slug': 'ehkonomika-menedzhment-marketing',
+        'title': 'Экономика. Менеджмент. Маркетинг'
+      },
+      'id': 110356,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 20,
+        'slug': 'istoriya-obshchestvo',
+        'title': 'История. Общество'
+      },
+      'id': 110388,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 21,
+        'slug': 'pravo',
+        'title': 'Право'
+      },
+      'id': 110426,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18030,
+        'level': 1,
+        'position': 22,
+        'slug': 'knigi-s-avtografami',
+        'title': 'Книги с автографами'
+      },
+      'id': 110448,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18035,
+        'level': 1,
+        'position': 1,
+        'slug': 'ofisnye-prinadlezhnosti',
+        'title': 'Офисные принадлежности'
+      },
+      'id': 110554,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18035,
+        'level': 1,
+        'position': 2,
+        'slug': 'bumazhnaya-produkciya-dlya-ofisa',
+        'title': 'Бумажная продукция для офиса'
+      },
+      'id': 110573,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18035,
+        'level': 1,
+        'position': 3,
+        'slug': 'papki-sistemy-arhivacii',
+        'title': 'Папки, системы архивации'
+      },
+      'id': 110579,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18035,
+        'level': 1,
+        'position': 4,
+        'slug': 'pismennye-prinadlezhnosti',
+        'title': 'Письменные принадлежности'
+      },
+      'id': 110587,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18035,
+        'level': 1,
+        'position': 5,
+        'slug': 'chertezhnye-prinadlezhnosti',
+        'title': 'Чертежные принадлежности'
+      },
+      'id': 110597,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18035,
+        'level': 1,
+        'position': 6,
+        'slug': 'uchebnye-i-naglyadnye-posobiya',
+        'title': 'Учебные и наглядные пособия'
+      },
+      'id': 110604,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18035,
+        'level': 1,
+        'position': 7,
+        'slug': 'bumazhnaya-produkciya-dlya-shkoly',
+        'title': 'Бумажная продукция для школы'
+      },
+      'id': 110607,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18035,
+        'level': 1,
+        'position': 8,
+        'slug': 'shkolnyj-tekstil-penaly',
+        'title': 'Школьный текстиль, пеналы'
+      },
+      'id': 110615,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18035,
+        'level': 1,
+        'position': 9,
+        'slug': 'kalendari',
+        'title': 'Календари 2025'
+      },
+      'id': 110684,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18035,
+        'level': 1,
+        'position': 10,
+        'slug': 'ezhednevniki',
+        'title': 'Ежедневники'
+      },
+      'id': 110685,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 1,
+        'slug': 'posuda-i-tekstil',
+        'title': 'Посуда и текстиль'
+      },
+      'id': 110666,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 2,
+        'slug': 'originalnye-podarki',
+        'title': 'Оригинальные подарки'
+      },
+      'id': 110667,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 3,
+        'slug': 'sumki-shoppery',
+        'title': 'Сумки-шопперы'
+      },
+      'id': 110668,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 4,
+        'slug': 'vizitnicy-delovye-portfeli-papki',
+        'title': 'Визитницы, деловые портфели, папки'
+      },
+      'id': 110669,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 5,
+        'slug': 'breloki',
+        'title': 'Брелоки'
+      },
+      'id': 110670,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 6,
+        'slug': 'dekor-interera',
+        'title': 'Декор интерьера'
+      },
+      'id': 110671,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 7,
+        'slug': 'oblozhki-dlya-dokumentov',
+        'title': 'Обложки для документов'
+      },
+      'id': 110672,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 8,
+        'slug': 'magnity-znachki',
+        'title': 'Магниты, значки'
+      },
+      'id': 110673,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 9,
+        'slug': 'ehlektronnye-podarki-i-aksessuary',
+        'title': 'Электронные подарки и аксессуары'
+      },
+      'id': 110674,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 10,
+        'slug': 'zakladki-suvenirnye-dengi-tablichki-na-dver',
+        'title': 'Закладки, сувенирные деньги, таблички на дверь'
+      },
+      'id': 110675,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 11,
+        'slug': 'odezhda-i-aksessuary',
+        'title': 'Одежда и аксессуары'
+      },
+      'id': 110676,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 12,
+        'slug': 'sredstva-gigieny',
+        'title': 'Средства гигиены'
+      },
+      'id': 110677,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 13,
+        'slug': 'albomy-dlya-monet-listy',
+        'title': 'Альбомы для монет, листы'
+      },
+      'id': 110678,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 14,
+        'slug': 'igrushki-dlya-koshek',
+        'title': 'Игрушки для кошек'
+      },
+      'id': 110679,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 15,
+        'slug': 'otkrytki',
+        'title': 'Открытки'
+      },
+      'id': 110680,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 16,
+        'slug': 'fotoramki-fotoalbomy-ramki-dlya-kartin',
+        'title': 'Фоторамки, фотоальбомы, рамки для картин'
+      },
+      'id': 110681,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 17,
+        'slug': 'podarochnaya-upakovka',
+        'title': 'Подарочная упаковка'
+      },
+      'id': 110682,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18038,
+        'level': 1,
+        'position': 18,
+        'slug': 'prazdnichnye-ukrasheniya',
+        'title': 'Праздничные украшения'
+      },
+      'id': 110683,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18039,
+        'level': 1,
+        'position': 1,
+        'slug': 'nastolnye-igry',
+        'title': 'Настольные игры'
+      },
+      'id': 110501,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18039,
+        'level': 1,
+        'position': 2,
+        'slug': 'konstruktory',
+        'title': 'Конструкторы'
+      },
+      'id': 110522,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18039,
+        'level': 1,
+        'position': 3,
+        'slug': 'pazly-i-aksessuary',
+        'title': 'Пазлы и аксессуары'
+      },
+      'id': 110523,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18039,
+        'level': 1,
+        'position': 4,
+        'slug': 'figurki-i-aksessuary',
+        'title': 'Фигурки и аксессуары'
+      },
+      'id': 110524,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18039,
+        'level': 1,
+        'position': 5,
+        'slug': 'myagkie-igrushki-igrushki-podushki',
+        'title': 'Мягкие игрушки, игрушки-подушки'
+      },
+      'id': 110525,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18039,
+        'level': 1,
+        'position': 6,
+        'slug': 'sbornye-modeli-i-raskhodnye-materialy',
+        'title': 'Сборные модели и расходные материалы'
+      },
+      'id': 110526,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18039,
+        'level': 1,
+        'position': 7,
+        'slug': 'nabory-dlya-opytov-i-ehksperimentov-fokusy',
+        'title': 'Наборы для опытов и экспериментов, фокусы'
+      },
+      'id': 110529,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18039,
+        'level': 1,
+        'position': 8,
+        'slug': 'razvivayushchie-igrushki',
+        'title': 'Развивающие игрушки'
+      },
+      'id': 110530,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18039,
+        'level': 1,
+        'position': 9,
+        'slug': 'igrushki-dlya-ulicy',
+        'title': 'Игрушки для улицы'
+      },
+      'id': 110531,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18200,
+        'level': 1,
+        'position': 1,
+        'slug': 'rukodelie',
+        'title': 'Рукоделие'
+      },
+      'id': 110533,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18200,
+        'level': 1,
+        'position': 2,
+        'slug': 'applikacii',
+        'title': 'Аппликации'
+      },
+      'id': 110540,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18200,
+        'level': 1,
+        'position': 3,
+        'slug': 'naklejki',
+        'title': 'Наклейки'
+      },
+      'id': 110541,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18200,
+        'level': 1,
+        'position': 4,
+        'slug': 'mozaika-almaznaya-mozaika',
+        'title': 'Мозаика, алмазная мозаика'
+      },
+      'id': 110542,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18200,
+        'level': 1,
+        'position': 5,
+        'slug': 'lepka',
+        'title': 'Лепка'
+      },
+      'id': 110543,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18200,
+        'level': 1,
+        'position': 6,
+        'slug': 'rospis',
+        'title': 'Роспись'
+      },
+      'id': 110544,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18200,
+        'level': 1,
+        'position': 7,
+        'slug': 'kartiny-po-nomeram',
+        'title': 'Картины по номерам'
+      },
+      'id': 110545,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18200,
+        'level': 1,
+        'position': 8,
+        'slug': 'risovanie',
+        'title': 'Рисование'
+      },
+      'id': 110546,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18200,
+        'level': 1,
+        'position': 9,
+        'slug': 'gravyury',
+        'title': 'Гравюры'
+      },
+      'id': 110551,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 18200,
+        'level': 1,
+        'position': 10,
+        'slug': 'mylovarenie-svechi',
+        'title': 'Мыловарение, свечи'
+      },
+      'id': 110552,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110621,
+        'level': 1,
+        'position': 1,
+        'slug': 'kisti',
+        'title': 'Кисти'
+      },
+      'id': 110622,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110621,
+        'level': 1,
+        'position': 2,
+        'slug': 'kraski',
+        'title': 'Краски'
+      },
+      'id': 110628,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110621,
+        'level': 1,
+        'position': 3,
+        'slug': 'materialy-dlya-risovaniya',
+        'title': 'Материалы для рисования'
+      },
+      'id': 110635,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110621,
+        'level': 1,
+        'position': 4,
+        'slug': 'laki-grunt-razbavitel-masla',
+        'title': 'Лаки, грунт, разбавитель, масла'
+      },
+      'id': 110645,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110621,
+        'level': 1,
+        'position': 5,
+        'slug': 'bumaga-i-karton-dlya-hudozhestvennyh-rabot',
+        'title': 'Бумага и картон для художественных работ'
+      },
+      'id': 110646,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110621,
+        'level': 1,
+        'position': 6,
+        'slug': 'glina-skulpturnyj-plastilin-gips-massa',
+        'title': 'Глина, скульптурный пластилин, гипс, масса'
+      },
+      'id': 110656,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110621,
+        'level': 1,
+        'position': 7,
+        'slug': 'tush-i-chernila',
+        'title': 'Тушь и чернила'
+      },
+      'id': 110657,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110621,
+        'level': 1,
+        'position': 8,
+        'slug': 'holst',
+        'title': 'Холст'
+      },
+      'id': 110658,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110621,
+        'level': 1,
+        'position': 9,
+        'slug': 'planshety',
+        'title': 'Планшеты'
+      },
+      'id': 110659,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110621,
+        'level': 1,
+        'position': 10,
+        'slug': 'organajzery',
+        'title': 'Органайзеры'
+      },
+      'id': 110660,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110621,
+        'level': 1,
+        'position': 11,
+        'slug': 'molberty-ehtyudniki-ramy',
+        'title': 'Мольберты, Этюдники, Рамы'
+      },
+      'id': 110664,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 1,
+        'slug': 'sovremennaya-proza',
+        'title': 'Современная проза'
+      },
+      'id': 110002,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 2,
+        'slug': 'klassicheskaya-proza',
+        'title': 'Классическая проза'
+      },
+      'id': 110003,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 3,
+        'slug': 'fantastika-fehntezi',
+        'title': 'Фантастика. Фэнтези'
+      },
+      'id': 110004,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 4,
+        'slug': 'detektiv-triller',
+        'title': 'Детектив. Триллер'
+      },
+      'id': 110010,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 5,
+        'slug': 'lyubovnye-romany',
+        'title': 'Любовные романы'
+      },
+      'id': 110016,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 6,
+        'slug': 'istoricheskie-romany',
+        'title': 'Исторические романы'
+      },
+      'id': 110017,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 7,
+        'slug': 'priklyucheniya',
+        'title': 'Приключения'
+      },
+      'id': 110018,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 8,
+        'slug': 'biografii-memuary',
+        'title': 'Биографии. Мемуары'
+      },
+      'id': 110019,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 9,
+        'slug': 'publicistika',
+        'title': 'Публицистика'
+      },
+      'id': 110028,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 10,
+        'slug': 'poehziya',
+        'title': 'Поэзия'
+      },
+      'id': 110029,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 11,
+        'slug': 'folklor',
+        'title': 'Фольклор'
+      },
+      'id': 110030,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 12,
+        'slug': 'aforizmy-citaty',
+        'title': 'Афоризмы. Цитаты'
+      },
+      'id': 110031,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 13,
+        'slug': 'yumor-satira',
+        'title': 'Юмор. Сатира'
+      },
+      'id': 110032,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 14,
+        'slug': 'molodezhnaya-proza',
+        'title': 'Молодежная проза'
+      },
+      'id': 110033,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 15,
+        'slug': 'zarubezhnaya-literatura',
+        'title': 'Зарубежная литература'
+      },
+      'id': 110037,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110001,
+        'level': 2,
+        'position': 16,
+        'slug': 'rossijskaya-literatura',
+        'title': 'Российская литература'
+      },
+      'id': 110050,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110065,
+        'level': 2,
+        'position': 1,
+        'slug': 'sovremennaya-proza-na-anglijskom',
+        'title': 'Современная проза на английском'
+      },
+      'id': 110066,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110065,
+        'level': 2,
+        'position': 2,
+        'slug': 'klassicheskaya-proza-na-anglijskom',
+        'title': 'Классическая проза на английском'
+      },
+      'id': 110067,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110065,
+        'level': 2,
+        'position': 3,
+        'slug': 'russkaya-literatura-na-anglijskom',
+        'title': 'Русская литература на английском'
+      },
+      'id': 110068,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110065,
+        'level': 2,
+        'position': 4,
+        'slug': 'fantastika-mistika-uzhasy-na-anglijskom',
+        'title': 'Фантастика. Мистика. Ужасы на английском'
+      },
+      'id': 110069,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110065,
+        'level': 2,
+        'position': 5,
+        'slug': 'detektiv-triller-na-anglijskom',
+        'title': 'Детектив. Триллер на английском'
+      },
+      'id': 110070,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110065,
+        'level': 2,
+        'position': 6,
+        'slug': 'romantika-na-anglijskom',
+        'title': 'Романтика на английском'
+      },
+      'id': 110071,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110065,
+        'level': 2,
+        'position': 7,
+        'slug': 'detskie-knigi-na-anglijskom',
+        'title': 'Детские книги на английском'
+      },
+      'id': 110072,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110065,
+        'level': 2,
+        'position': 8,
+        'slug': 'nauchno-populyarnaya-literatura-na-anglijskom',
+        'title': 'Научно-популярная литература на английском'
+      },
+      'id': 110073,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110065,
+        'level': 2,
+        'position': 9,
+        'slug': 'prochie-izdaniya-na-anglijskom',
+        'title': 'Прочие издания на английском'
+      },
+      'id': 110074,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110075,
+        'level': 2,
+        'position': 1,
+        'slug': 'knigi-na-francuzskom-yazyke',
+        'title': 'Книги на французском языке'
+      },
+      'id': 110076,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110075,
+        'level': 2,
+        'position': 2,
+        'slug': 'knigi-na-ispanskom-yazyke',
+        'title': 'Книги на испанском языке'
+      },
+      'id': 110077,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110075,
+        'level': 2,
+        'position': 3,
+        'slug': 'knigi-na-italyanskom-yazyke',
+        'title': 'Книги на итальянском языке'
+      },
+      'id': 110078,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110075,
+        'level': 2,
+        'position': 4,
+        'slug': 'knigi-na-nemeckom-yazyke',
+        'title': 'Книги на немецком языке'
+      },
+      'id': 110079,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110075,
+        'level': 2,
+        'position': 5,
+        'slug': 'knigi-na-prochih-yazykah',
+        'title': 'Книги на прочих языках'
+      },
+      'id': 110080,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110081,
+        'level': 2,
+        'position': 1,
+        'slug': 'literaturovedenie-folkloristika',
+        'title': 'Литературоведение. Фольклористика'
+      },
+      'id': 110082,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110081,
+        'level': 2,
+        'position': 2,
+        'slug': 'russkij-yazyk',
+        'title': 'Русский язык'
+      },
+      'id': 110083,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110081,
+        'level': 2,
+        'position': 3,
+        'slug': 'anglijskij-yazyk',
+        'title': 'Английский язык'
+      },
+      'id': 110084,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110081,
+        'level': 2,
+        'position': 4,
+        'slug': 'nemeckij-yazyk',
+        'title': 'Немецкий язык'
+      },
+      'id': 110085,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110081,
+        'level': 2,
+        'position': 5,
+        'slug': 'francuzskij-yazyk',
+        'title': 'Французский язык'
+      },
+      'id': 110086,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110081,
+        'level': 2,
+        'position': 6,
+        'slug': 'ispanskij-yazyk',
+        'title': 'Испанский язык'
+      },
+      'id': 110087,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110081,
+        'level': 2,
+        'position': 7,
+        'slug': 'drugie-yazyki',
+        'title': 'Другие языки'
+      },
+      'id': 110088,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110081,
+        'level': 2,
+        'position': 8,
+        'slug': 'prochie-izdaniya-po-filologii',
+        'title': 'Прочие издания по филологии'
+      },
+      'id': 110089,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110090,
+        'level': 2,
+        'position': 1,
+        'slug': 'detskaya-hudozhestvennaya-literatura',
+        'title': 'Детская художественная литература'
+      },
+      'id': 110091,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110090,
+        'level': 2,
+        'position': 2,
+        'slug': 'detskaya-poznavatelnaya-literatura',
+        'title': 'Детская познавательная литература'
+      },
+      'id': 110100,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110090,
+        'level': 2,
+        'position': 3,
+        'slug': 'detskoe-tvorchestvo-i-dosug',
+        'title': 'Детское творчество и досуг'
+      },
+      'id': 110106,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110090,
+        'level': 2,
+        'position': 4,
+        'slug': 'knigi-igrushki',
+        'title': 'Книги-игрушки'
+      },
+      'id': 110115,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110090,
+        'level': 2,
+        'position': 5,
+        'slug': 'komiksy-i-manga-dlya-detej',
+        'title': 'Комиксы и манга для детей'
+      },
+      'id': 110120,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110090,
+        'level': 2,
+        'position': 6,
+        'slug': 'detskaya-religioznaya-literatura',
+        'title': 'Детская религиозная литература'
+      },
+      'id': 110121,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110090,
+        'level': 2,
+        'position': 7,
+        'slug': 'doshkolnoe-obrazovanie',
+        'title': 'Дошкольное образование'
+      },
+      'id': 110122,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110090,
+        'level': 2,
+        'position': 8,
+        'slug': 'medicina-dlya-roditelej',
+        'title': 'Медицина для родителей'
+      },
+      'id': 110129,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110090,
+        'level': 2,
+        'position': 9,
+        'slug': 'psihologiya-vospitaniya-i-obucheniya-detej',
+        'title': 'Психология воспитания и обучения детей'
+      },
+      'id': 110130,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110090,
+        'level': 2,
+        'position': 10,
+        'slug': 'psihologicheskie-osobennosti-detskogo-vozrasta',
+        'title': 'Психологические особенности детского возраста'
+      },
+      'id': 110131,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110132,
+        'level': 2,
+        'position': 1,
+        'slug': 'komiksy-i-manga-dlya-podrostkov',
+        'title': 'Комиксы и манга для подростков'
+      },
+      'id': 110133,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110132,
+        'level': 2,
+        'position': 2,
+        'slug': 'fantastika-i-fehntezi-dlya-podrostkov',
+        'title': 'Фантастика и фэнтези для подростков'
+      },
+      'id': 110134,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110132,
+        'level': 2,
+        'position': 3,
+        'slug': 'sentimentalnaya-proza-dlya-podrostkov',
+        'title': 'Сентиментальная проза для подростков'
+      },
+      'id': 110135,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110132,
+        'level': 2,
+        'position': 4,
+        'slug': 'povesti-i-rasskazy-dlya-podrostkov',
+        'title': 'Повести и рассказы для подростков'
+      },
+      'id': 110136,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110132,
+        'level': 2,
+        'position': 5,
+        'slug': 'detektivy-dlya-podrostkov',
+        'title': 'Детективы для подростков'
+      },
+      'id': 110137,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110132,
+        'level': 2,
+        'position': 6,
+        'slug': 'o-priklyucheniyah-dlya-podrostkov',
+        'title': 'О приключениях для подростков'
+      },
+      'id': 110138,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110132,
+        'level': 2,
+        'position': 7,
+        'slug': 'vneklassnoe-chtenie-dlya-podrostkov',
+        'title': 'Внеклассное чтение для подростков'
+      },
+      'id': 110139,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110140,
+        'level': 2,
+        'position': 1,
+        'slug': 'nachalnaya-shkola',
+        'title': 'Начальная школа'
+      },
+      'id': 110141,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110140,
+        'level': 2,
+        'position': 2,
+        'slug': 'ehnciklopedii-slovari-spravochniki',
+        'title': 'Энциклопедии, словари, справочники'
+      },
+      'id': 110149,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110140,
+        'level': 2,
+        'position': 3,
+        'slug': 'gumanitarnye-predmety',
+        'title': 'Гуманитарные предметы'
+      },
+      'id': 110150,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110140,
+        'level': 2,
+        'position': 4,
+        'slug': 'obshchestvennye-predmety',
+        'title': 'Общественные предметы'
+      },
+      'id': 110156,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110140,
+        'level': 2,
+        'position': 5,
+        'slug': 'estestvennonauchnye-predmety',
+        'title': 'Естественнонаучные предметы'
+      },
+      'id': 110160,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110140,
+        'level': 2,
+        'position': 6,
+        'slug': 'prikladnye-predmety',
+        'title': 'Прикладные предметы'
+      },
+      'id': 110169,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110140,
+        'level': 2,
+        'position': 7,
+        'slug': 'egeh-ogeh-vpr',
+        'title': 'ЕГЭ, ОГЭ, ВПР'
+      },
+      'id': 110172,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110140,
+        'level': 2,
+        'position': 8,
+        'slug': 'pedagogika-i-metodika',
+        'title': 'Педагогика и методика'
+      },
+      'id': 110176,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110140,
+        'level': 2,
+        'position': 9,
+        'slug': 'doshkolnoe-obrazovanie',
+        'title': 'Дошкольное образование'
+      },
+      'id': 110183,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 1,
+        'slug': 'uchenie-osho',
+        'title': 'Учение Ошо'
+      },
+      'id': 110190,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 2,
+        'slug': 'uchenie-k-kastanedy',
+        'title': 'Учение К. Кастанеды'
+      },
+      'id': 110191,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 3,
+        'slug': 'transerfing',
+        'title': 'Трансерфинг'
+      },
+      'id': 110192,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 4,
+        'slug': 'karma-reinkarnaciya',
+        'title': 'Карма. Реинкарнация'
+      },
+      'id': 110193,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 5,
+        'slug': 'teosofiya-antroposofiya-agni-joga-shambala',
+        'title': 'Теософия. Антропософия. Агни-йога. Шамбала'
+      },
+      'id': 110194,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 6,
+        'slug': 'meditativnye-praktiki',
+        'title': 'Медитативные практики'
+      },
+      'id': 110195,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 7,
+        'slug': 'drugie-ehzotericheskie-ucheniya',
+        'title': 'Другие эзотерические учения'
+      },
+      'id': 110196,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 8,
+        'slug': 'tajny-prirody-i-istorii',
+        'title': 'Тайны природы и истории'
+      },
+      'id': 110197,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 9,
+        'slug': 'teoriya-i-istoriya-astrologii',
+        'title': 'Теория и история астрологии'
+      },
+      'id': 110198,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 10,
+        'slug': 'astrologicheskie-kalendari',
+        'title': 'Астрологические календари'
+      },
+      'id': 110199,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 11,
+        'slug': 'numerologiya',
+        'title': 'Нумерология'
+      },
+      'id': 110200,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 12,
+        'slug': 'gadanie-po-runam',
+        'title': 'Гадание по рунам'
+      },
+      'id': 110201,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 13,
+        'slug': 'karty-taro-gadanie-na-kartah',
+        'title': 'Карты Таро. Гадание на картах'
+      },
+      'id': 110202,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 14,
+        'slug': 'hiromantiya',
+        'title': 'Хиромантия'
+      },
+      'id': 110203,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 15,
+        'slug': 'kniga-peremen-imena-sonniki',
+        'title': 'Книга перемен. Имена. Сонники'
+      },
+      'id': 110204,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 16,
+        'slug': 'proroki-predskazaniya',
+        'title': 'Пророки. Предсказания'
+      },
+      'id': 110205,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110189,
+        'level': 2,
+        'position': 17,
+        'slug': 'magiya-i-koldovstvo-sueveriya',
+        'title': 'Магия и колдовство. Суеверия'
+      },
+      'id': 110206,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110207,
+        'level': 2,
+        'position': 1,
+        'slug': 'populyarnye-sistemy-sohraneniya-zdorovya-zdorovoe-pitanie',
+        'title': 'Популярные системы сохранения здоровья. Здоровое питание'
+      },
+      'id': 110208,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110207,
+        'level': 2,
+        'position': 2,
+        'slug': 'joga-pilates',
+        'title': 'Йога. Пилатес'
+      },
+      'id': 110209,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110207,
+        'level': 2,
+        'position': 3,
+        'slug': 'korrekciya-figury-diety',
+        'title': 'Коррекция фигуры. Диеты'
+      },
+      'id': 110210,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110207,
+        'level': 2,
+        'position': 4,
+        'slug': 'fitnes-aehrobika',
+        'title': 'Фитнес. Аэробика'
+      },
+      'id': 110211,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110207,
+        'level': 2,
+        'position': 5,
+        'slug': 'atlasy-anatomii-mediko-biologicheskie-discipliny',
+        'title': 'Атласы анатомии. Медико-биологические дисциплины'
+      },
+      'id': 110212,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110207,
+        'level': 2,
+        'position': 6,
+        'slug': 'klinicheskaya-medicina-v-celom',
+        'title': 'Клиническая медицина в целом'
+      },
+      'id': 110213,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110207,
+        'level': 2,
+        'position': 7,
+        'slug': 'vnutrennie-bolezni',
+        'title': 'Внутренние болезни'
+      },
+      'id': 110214,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110207,
+        'level': 2,
+        'position': 8,
+        'slug': 'specializirovannye-otrasli-mediciny',
+        'title': 'Специализированные отрасли медицины'
+      },
+      'id': 110215,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110207,
+        'level': 2,
+        'position': 9,
+        'slug': 'farmakologiya-toksikologiya',
+        'title': 'Фармакология. Токсикология'
+      },
+      'id': 110216,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110207,
+        'level': 2,
+        'position': 10,
+        'slug': 'pediatriya-izdaniya-dlya-vrachej-i-dlya-vuzov',
+        'title': 'Педиатрия. Издания для врачей и для ВУЗов'
+      },
+      'id': 110217,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110207,
+        'level': 2,
+        'position': 11,
+        'slug': 'populyarnye-izdaniya-dlya-roditelej',
+        'title': 'Популярные издания для родителей'
+      },
+      'id': 110218,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110207,
+        'level': 2,
+        'position': 12,
+        'slug': 'populyarnaya-medicina',
+        'title': 'Популярная медицина'
+      },
+      'id': 110219,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110207,
+        'level': 2,
+        'position': 13,
+        'slug': 'obshchie-voprosy-mediciny',
+        'title': 'Общие вопросы медицины'
+      },
+      'id': 110226,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110227,
+        'level': 2,
+        'position': 1,
+        'slug': 'uhod-za-soboj-parfyumeriya',
+        'title': 'Уход за собой. Парфюмерия'
+      },
+      'id': 110228,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110227,
+        'level': 2,
+        'position': 2,
+        'slug': 'garderob-moda-stil',
+        'title': 'Гардероб. Мода. Стиль'
+      },
+      'id': 110229,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110227,
+        'level': 2,
+        'position': 3,
+        'slug': 'imidzh-ehtiket',
+        'title': 'Имидж. Этикет'
+      },
+      'id': 110230,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110227,
+        'level': 2,
+        'position': 4,
+        'slug': 'bolshe-o-krasote-i-mode',
+        'title': 'Больше о красоте и моде'
+      },
+      'id': 110231,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110227,
+        'level': 2,
+        'position': 5,
+        'slug': 'joga-pilates',
+        'title': 'Йога. Пилатес'
+      },
+      'id': 110232,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110227,
+        'level': 2,
+        'position': 6,
+        'slug': 'korrekciya-figury-diety',
+        'title': 'Коррекция фигуры. Диеты'
+      },
+      'id': 110233,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110227,
+        'level': 2,
+        'position': 7,
+        'slug': 'fitnes-aehrobika',
+        'title': 'Фитнес. Аэробика'
+      },
+      'id': 110234,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110235,
+        'level': 2,
+        'position': 1,
+        'slug': 'nacionalnye-kuhni',
+        'title': 'Национальные кухни'
+      },
+      'id': 110236,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110235,
+        'level': 2,
+        'position': 2,
+        'slug': 'povarennye-knigi-sborniki-receptov',
+        'title': 'Поваренные книги. Сборники рецептов'
+      },
+      'id': 110237,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110235,
+        'level': 2,
+        'position': 3,
+        'slug': 'konservirovanie',
+        'title': 'Консервирование'
+      },
+      'id': 110238,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110235,
+        'level': 2,
+        'position': 4,
+        'slug': 'vypechka-deserty',
+        'title': 'Выпечка. Десерты'
+      },
+      'id': 110239,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110235,
+        'level': 2,
+        'position': 5,
+        'slug': 'alkogolnye-napitki',
+        'title': 'Алкогольные напитки'
+      },
+      'id': 110240,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110235,
+        'level': 2,
+        'position': 6,
+        'slug': 'bezalkogolnye-napitki',
+        'title': 'Безалкогольные напитки'
+      },
+      'id': 110241,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110235,
+        'level': 2,
+        'position': 7,
+        'slug': 'servirovka-stola-ukrashenie-blyud',
+        'title': 'Сервировка стола. Украшение блюд'
+      },
+      'id': 110242,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110235,
+        'level': 2,
+        'position': 8,
+        'slug': 'knigi-o-kulinarii',
+        'title': 'Книги о кулинарии'
+      },
+      'id': 110243,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110244,
+        'level': 2,
+        'position': 1,
+        'slug': 'rukodeliya-i-remesla',
+        'title': 'Рукоделия и ремесла'
+      },
+      'id': 110245,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110244,
+        'level': 2,
+        'position': 2,
+        'slug': 'stroitelstvo-dizajn-priusadebnyj-uchastok',
+        'title': 'Строительство. Дизайн. Приусадебный участок'
+      },
+      'id': 110251,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110244,
+        'level': 2,
+        'position': 3,
+        'slug': 'domovodstvo',
+        'title': 'Домоводство'
+      },
+      'id': 110255,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110244,
+        'level': 2,
+        'position': 4,
+        'slug': 'spravochniki-po-domovodstvu-i-hobbi',
+        'title': 'Справочники по домоводству и хобби'
+      },
+      'id': 110256,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110244,
+        'level': 2,
+        'position': 5,
+        'slug': 'zhivotnovodstvo-i-veterinariya',
+        'title': 'Животноводство и ветеринария'
+      },
+      'id': 110257,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110244,
+        'level': 2,
+        'position': 6,
+        'slug': 'domashnie-pitomcy',
+        'title': 'Домашние питомцы'
+      },
+      'id': 110258,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110244,
+        'level': 2,
+        'position': 7,
+        'slug': 'kollekcionirovanie',
+        'title': 'Коллекционирование'
+      },
+      'id': 110262,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110244,
+        'level': 2,
+        'position': 8,
+        'slug': 'ohota-rybalka-sbor-gribov-i-yagod',
+        'title': 'Охота. Рыбалка. Сбор грибов и ягод'
+      },
+      'id': 110263,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110244,
+        'level': 2,
+        'position': 9,
+        'slug': 'fotografiya',
+        'title': 'Фотография'
+      },
+      'id': 110264,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110244,
+        'level': 2,
+        'position': 10,
+        'slug': 'igry-razvlecheniya-scenarii-prazdnikov',
+        'title': 'Игры. Развлечения. Сценарии праздников'
+      },
+      'id': 110265,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110244,
+        'level': 2,
+        'position': 11,
+        'slug': 'sport-samooborona',
+        'title': 'Спорт. Самооборона'
+      },
+      'id': 110266,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110244,
+        'level': 2,
+        'position': 12,
+        'slug': 'puteshestviya-i-turizm',
+        'title': 'Путешествия и туризм'
+      },
+      'id': 110272,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110244,
+        'level': 2,
+        'position': 13,
+        'slug': 'transport',
+        'title': 'Транспорт'
+      },
+      'id': 110277,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110282,
+        'level': 2,
+        'position': 1,
+        'slug': 'tekhnicheskie-nauki',
+        'title': 'Технические науки'
+      },
+      'id': 110283,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110282,
+        'level': 2,
+        'position': 2,
+        'slug': 'avtomatika-radioehlektronika-svyaz',
+        'title': 'Автоматика. Радиоэлектроника. Связь'
+      },
+      'id': 110284,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110282,
+        'level': 2,
+        'position': 3,
+        'slug': 'ehnergetika-promyshlennost',
+        'title': 'Энергетика. Промышленность'
+      },
+      'id': 110285,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110282,
+        'level': 2,
+        'position': 4,
+        'slug': 'grazhdanskoe-i-promyshlennoe-stroitelstvo',
+        'title': 'Гражданское и промышленное строительство'
+      },
+      'id': 110286,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110282,
+        'level': 2,
+        'position': 5,
+        'slug': 'fiziko-matematicheskie-nauki',
+        'title': 'Физико-математические науки'
+      },
+      'id': 110287,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110282,
+        'level': 2,
+        'position': 6,
+        'slug': 'himiya-nauchnye-izdaniya',
+        'title': 'Химия. Научные издания'
+      },
+      'id': 110291,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110282,
+        'level': 2,
+        'position': 7,
+        'slug': 'nauki-o-zemle-ehkologiya',
+        'title': 'Науки о Земле. Экология'
+      },
+      'id': 110292,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110282,
+        'level': 2,
+        'position': 8,
+        'slug': 'biologicheskie-nauki',
+        'title': 'Биологические науки'
+      },
+      'id': 110293,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110282,
+        'level': 2,
+        'position': 9,
+        'slug': 'obshchenauchnoe-znanie-i-teorii',
+        'title': 'Общенаучное знание и теории'
+      },
+      'id': 110298,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110282,
+        'level': 2,
+        'position': 10,
+        'slug': 'informatika',
+        'title': 'Информатика'
+      },
+      'id': 110299,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110307,
+        'level': 2,
+        'position': 1,
+        'slug': 'religiya',
+        'title': 'Религия'
+      },
+      'id': 110308,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110307,
+        'level': 2,
+        'position': 2,
+        'slug': 'filosofiya',
+        'title': 'Философия'
+      },
+      'id': 110316,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 1,
+        'slug': 'osnovy-psihologii',
+        'title': 'Основы психологии'
+      },
+      'id': 110322,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 2,
+        'slug': 'psihologicheskie-shkoly-i-napravleniya',
+        'title': 'Психологические школы и направления'
+      },
+      'id': 110323,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 3,
+        'slug': 'psihofiziologiya',
+        'title': 'Психофизиология'
+      },
+      'id': 110324,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 4,
+        'slug': 'obshchaya-teoriya-socialnoj-psihologii',
+        'title': 'Общая теория социальной психологии'
+      },
+      'id': 110325,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 5,
+        'slug': 'psihoterapiya-psihodiagnostika',
+        'title': 'Психотерапия. Психодиагностика'
+      },
+      'id': 110326,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 6,
+        'slug': 'glubinnaya-psihologiya-psihoanaliz',
+        'title': 'Глубинная психология. Психоанализ'
+      },
+      'id': 110327,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 7,
+        'slug': 'nlp',
+        'title': 'НЛП'
+      },
+      'id': 110328,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 8,
+        'slug': 'obshchie-voprosy-psihologii',
+        'title': 'Общие вопросы психологии'
+      },
+      'id': 110329,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 9,
+        'slug': 'psihologiya-vospitaniya-i-obucheniya-detej',
+        'title': 'Психология воспитания и обучения детей'
+      },
+      'id': 110330,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 10,
+        'slug': 'psihologicheskie-osobennosti-detskogo-vozrasta',
+        'title': 'Психологические особенности детского возраста'
+      },
+      'id': 110331,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 11,
+        'slug': 'bolshe-o-psihologii-detej',
+        'title': 'Больше о психологии детей'
+      },
+      'id': 110332,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 12,
+        'slug': 'psihologiya-otnoshenij-semya-i-brak',
+        'title': 'Психология отношений. Семья и брак'
+      },
+      'id': 110333,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 13,
+        'slug': 'lyubov-ehrotika-seks',
+        'title': 'Любовь. Эротика. Секс'
+      },
+      'id': 110334,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 14,
+        'slug': 'psihologiya-obshcheniya-mezhlichnostnye-kommunikacii',
+        'title': 'Психология общения. Межличностные коммуникации'
+      },
+      'id': 110335,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 15,
+        'slug': 'psihologiya-lichnosti-harakter-temperament-talant',
+        'title': 'Психология личности. Характер, темперамент, талант'
+      },
+      'id': 110336,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110321,
+        'level': 2,
+        'position': 16,
+        'slug': 'psihologiya-uspekha-lichnaya-ehffektivnost-motivaciya',
+        'title': 'Психология успеха. Личная эффективность, мотивация'
+      },
+      'id': 110337,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110338,
+        'level': 2,
+        'position': 1,
+        'slug': 'istoriya-iskusstv-iskusstvovedenie',
+        'title': 'История искусств. Искусствоведение'
+      },
+      'id': 110339,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110338,
+        'level': 2,
+        'position': 2,
+        'slug': 'arhitektura',
+        'title': 'Архитектура'
+      },
+      'id': 110340,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110338,
+        'level': 2,
+        'position': 3,
+        'slug': 'zhivopis-i-grafika-tekhniki-i-priemy',
+        'title': 'Живопись и графика. Техники и приемы'
+      },
+      'id': 110341,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110338,
+        'level': 2,
+        'position': 4,
+        'slug': 'muzei-mira-albomy-reprodukcij',
+        'title': 'Музеи мира. Альбомы репродукций'
+      },
+      'id': 110342,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110338,
+        'level': 2,
+        'position': 5,
+        'slug': 'istoriya-izobrazitelnogo-iskusstva',
+        'title': 'История изобразительного искусства'
+      },
+      'id': 110343,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110338,
+        'level': 2,
+        'position': 6,
+        'slug': 'bolshe-ob-izobrazitelnom-iskusstve',
+        'title': 'Больше об изобразительном искусстве'
+      },
+      'id': 110344,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110338,
+        'level': 2,
+        'position': 7,
+        'slug': 'interer-dizajn-oformitelskoe-iskusstvo',
+        'title': 'Интерьер. Дизайн. Оформительское искусство'
+      },
+      'id': 110345,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110338,
+        'level': 2,
+        'position': 8,
+        'slug': 'teatr',
+        'title': 'Театр'
+      },
+      'id': 110346,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110338,
+        'level': 2,
+        'position': 9,
+        'slug': 'kino-televidenie',
+        'title': 'Кино. Телевидение'
+      },
+      'id': 110347,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110338,
+        'level': 2,
+        'position': 10,
+        'slug': 'bolshe-o-teatre-kino-i-tv',
+        'title': 'Больше о театре, кино и ТВ'
+      },
+      'id': 110348,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110338,
+        'level': 2,
+        'position': 11,
+        'slug': 'muzyka',
+        'title': 'Музыка'
+      },
+      'id': 110349,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110356,
+        'level': 2,
+        'position': 1,
+        'slug': 'ehkonomika-ehkonomicheskaya-teoriya',
+        'title': 'Экономика. Экономическая теория'
+      },
+      'id': 110357,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110356,
+        'level': 2,
+        'position': 2,
+        'slug': 'lichnaya-ehffektivnost-motivaciya',
+        'title': 'Личная эффективность. Мотивация'
+      },
+      'id': 110362,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110356,
+        'level': 2,
+        'position': 3,
+        'slug': 'finansy-buhgalterskij-uchet-audit',
+        'title': 'Финансы. Бухгалтерский учет. Аудит'
+      },
+      'id': 110366,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110356,
+        'level': 2,
+        'position': 4,
+        'slug': 'biznes-predprinimatelstvo-torgovlya',
+        'title': 'Бизнес. Предпринимательство. Торговля'
+      },
+      'id': 110372,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110356,
+        'level': 2,
+        'position': 5,
+        'slug': 'marketing-reklama',
+        'title': 'Маркетинг. Реклама'
+      },
+      'id': 110383,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110388,
+        'level': 2,
+        'position': 1,
+        'slug': 'vsemirnaya-istoriya',
+        'title': 'Всемирная история'
+      },
+      'id': 110389,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110388,
+        'level': 2,
+        'position': 2,
+        'slug': 'rossijskaya-istoriya',
+        'title': 'Российская история'
+      },
+      'id': 110395,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110388,
+        'level': 2,
+        'position': 3,
+        'slug': 'ehtnografiya-ehtnologiya-narodovedenie',
+        'title': 'Этнография, этнология, народоведение'
+      },
+      'id': 110402,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110388,
+        'level': 2,
+        'position': 4,
+        'slug': 'politika-sociologiya-kultura',
+        'title': 'Политика. Социология. Культура'
+      },
+      'id': 110403,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110388,
+        'level': 2,
+        'position': 5,
+        'slug': 'voennoe-delo-specsluzhby',
+        'title': 'Военное дело. Спецслужбы'
+      },
+      'id': 110410,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110388,
+        'level': 2,
+        'position': 6,
+        'slug': 'biografii-memuary',
+        'title': 'Биографии. Мемуары'
+      },
+      'id': 110416,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110426,
+        'level': 2,
+        'position': 1,
+        'slug': 'teoriya-i-istoriya-prava',
+        'title': 'Теория и история права'
+      },
+      'id': 110427,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110426,
+        'level': 2,
+        'position': 2,
+        'slug': 'mezhdunarodnoe-pravo',
+        'title': 'Международное право'
+      },
+      'id': 110428,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110426,
+        'level': 2,
+        'position': 3,
+        'slug': 'konstitucionnoe-i-administrativnoe-pravo',
+        'title': 'Конституционное и административное право'
+      },
+      'id': 110429,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110426,
+        'level': 2,
+        'position': 4,
+        'slug': 'grazhdanskoe-pravo',
+        'title': 'Гражданское право'
+      },
+      'id': 110434,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110426,
+        'level': 2,
+        'position': 5,
+        'slug': 'trudovoe-pravo',
+        'title': 'Трудовое право'
+      },
+      'id': 110440,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110426,
+        'level': 2,
+        'position': 6,
+        'slug': 'finansovoe-pravo',
+        'title': 'Финансовое право'
+      },
+      'id': 110441,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110426,
+        'level': 2,
+        'position': 7,
+        'slug': 'agrarnoe-i-zemelnoe-pravo-ehkologicheskoe-pravo',
+        'title': 'Аграрное и земельное право. Экологическое право'
+      },
+      'id': 110442,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110426,
+        'level': 2,
+        'position': 8,
+        'slug': 'ugolovnoe-pravo-kriminalistika',
+        'title': 'Уголовное право. Криминалистика'
+      },
+      'id': 110443,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110426,
+        'level': 2,
+        'position': 9,
+        'slug': 'obshchie-voprosy-prava',
+        'title': 'Общие вопросы права'
+      },
+      'id': 110447,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 1,
+        'slug': 'loto-domino-memo',
+        'title': 'Лото, домино, мемо'
+      },
+      'id': 110503,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 2,
+        'slug': 'golovolomki',
+        'title': 'Головоломки'
+      },
+      'id': 110505,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 3,
+        'slug': 'razvivayushchie-i-obuchayushchie-igry',
+        'title': 'Развивающие и обучающие игры'
+      },
+      'id': 110507,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 4,
+        'slug': 'kartochnye-igry',
+        'title': 'Карточные игры'
+      },
+      'id': 110508,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 5,
+        'slug': 'kvesty',
+        'title': 'Квесты'
+      },
+      'id': 110510,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 6,
+        'slug': 'igry-dlya-kompanii',
+        'title': 'Игры для компании'
+      },
+      'id': 110512,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 7,
+        'slug': 'logicheskie-igry',
+        'title': 'Логические игры'
+      },
+      'id': 110513,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 8,
+        'slug': 'biznes-igry',
+        'title': 'Бизнес игры'
+      },
+      'id': 110514,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 9,
+        'slug': 'ehlektronnye-igry',
+        'title': 'Электронные игры'
+      },
+      'id': 110515,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 10,
+        'slug': 'semejnye-igry',
+        'title': 'Семейные игры'
+      },
+      'id': 110516,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 11,
+        'slug': 'hodilki',
+        'title': 'Ходилки'
+      },
+      'id': 110517,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 12,
+        'slug': 'igry-v-associacii',
+        'title': 'Игры в ассоциации'
+      },
+      'id': 110518,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 13,
+        'slug': 'detektivnye-igry',
+        'title': 'Детективные игры'
+      },
+      'id': 110519,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 14,
+        'slug': 'strategicheskie-igry',
+        'title': 'Стратегические игры'
+      },
+      'id': 110520,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110501,
+        'level': 2,
+        'position': 15,
+        'slug': 'igry-dlya-samyh-malenkih',
+        'title': 'Игры для самых маленьких'
+      },
+      'id': 110521,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110526,
+        'level': 2,
+        'position': 1,
+        'slug': 'sbornye-modeli',
+        'title': 'Сборные Модели'
+      },
+      'id': 110527,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110526,
+        'level': 2,
+        'position': 2,
+        'slug': 'kraski-klej-razbavitel',
+        'title': 'Краски, клей, разбавитель'
+      },
+      'id': 110528,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110533,
+        'level': 2,
+        'position': 1,
+        'slug': 'vyazanie-vyshivka-shityo-valyanie',
+        'title': 'Вязание, вышивка, шитьё, валяние'
+      },
+      'id': 110534,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110533,
+        'level': 2,
+        'position': 2,
+        'slug': 'vyzhiganie',
+        'title': 'Выжигание'
+      },
+      'id': 110535,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110533,
+        'level': 2,
+        'position': 3,
+        'slug': 'skrapbuking',
+        'title': 'Скрапбукинг'
+      },
+      'id': 110536,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110533,
+        'level': 2,
+        'position': 4,
+        'slug': 'izgotovlenie-ukrashenij',
+        'title': 'Изготовление украшений'
+      },
+      'id': 110537,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110533,
+        'level': 2,
+        'position': 5,
+        'slug': 'materialy-i-aksessuary',
+        'title': 'Материалы и аксессуары'
+      },
+      'id': 110539,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110546,
+        'level': 2,
+        'position': 1,
+        'slug': 'kraski-palchikovye-kraski',
+        'title': 'Краски, пальчиковые краски'
+      },
+      'id': 110547,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110546,
+        'level': 2,
+        'position': 2,
+        'slug': 'grim',
+        'title': 'Грим'
+      },
+      'id': 110548,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110546,
+        'level': 2,
+        'position': 3,
+        'slug': 'nabor-dlya-risovaniya',
+        'title': 'Набор для рисования'
+      },
+      'id': 110549,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110546,
+        'level': 2,
+        'position': 4,
+        'slug': 'aksessuary-dlya-risovaniya',
+        'title': 'Аксессуары для рисования'
+      },
+      'id': 110550,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 1,
+        'slug': 'kalkulyatory',
+        'title': 'Калькуляторы'
+      },
+      'id': 110555,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 2,
+        'slug': 'nastolnye-podstavki-organajzery-nabory',
+        'title': 'Настольные подставки, органайзеры, наборы'
+      },
+      'id': 110556,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 3,
+        'slug': 'klej',
+        'title': 'Клей'
+      },
+      'id': 110557,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 4,
+        'slug': 'lotki-i-nakopiteli',
+        'title': 'Лотки и накопители'
+      },
+      'id': 110558,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 5,
+        'slug': 'nozhnicy',
+        'title': 'Ножницы'
+      },
+      'id': 110559,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 6,
+        'slug': 'steplery-skoby-antistepler',
+        'title': 'Степлеры, скобы, антистеплер'
+      },
+      'id': 110560,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 7,
+        'slug': 'knopki-zazhimy-skrepki',
+        'title': 'Кнопки, зажимы, скрепки'
+      },
+      'id': 110561,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 8,
+        'slug': 'pechati-shtampy-shtempelnaya-kraska-datery',
+        'title': 'Печати, штампы, штемпельная краска, датеры'
+      },
+      'id': 110562,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 9,
+        'slug': 'bejdzhi-i-derzhateli',
+        'title': 'Бейджи и держатели'
+      },
+      'id': 110563,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 10,
+        'slug': 'klejkie-lenty',
+        'title': 'Клейкие ленты'
+      },
+      'id': 110564,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 11,
+        'slug': 'dyrokoly',
+        'title': 'Дыроколы'
+      },
+      'id': 110565,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 12,
+        'slug': 'kancelyarskie-nozhi-i-lezviya',
+        'title': 'Канцелярские ножи и лезвия'
+      },
+      'id': 110566,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 13,
+        'slug': 'kovriki-na-stol',
+        'title': 'Коврики на стол'
+      },
+      'id': 110567,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 14,
+        'slug': 'korrektory-teksta',
+        'title': 'Корректоры текста'
+      },
+      'id': 110568,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 15,
+        'slug': 'markernaya-doska-doska-flipchart-i-materialy',
+        'title': 'Маркерная доска, доска-флипчарт и материалы'
+      },
+      'id': 110569,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 16,
+        'slug': 'cd-diski',
+        'title': 'CD диски'
+      },
+      'id': 110570,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 17,
+        'slug': 'vlazhnye-salfetki',
+        'title': 'Влажные салфетки'
+      },
+      'id': 110571,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110554,
+        'level': 2,
+        'position': 18,
+        'slug': 'aksessuary-dlya-tekhniki',
+        'title': 'Аксессуары для техники'
+      },
+      'id': 110572,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110573,
+        'level': 2,
+        'position': 1,
+        'slug': 'kalendari-ezhednevniki-planingi',
+        'title': 'Календари, ежедневники, планинги'
+      },
+      'id': 110574,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110573,
+        'level': 2,
+        'position': 2,
+        'slug': 'bloknoty-bumaga-dlya-zametok',
+        'title': 'Блокноты, бумага для заметок'
+      },
+      'id': 110575,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110573,
+        'level': 2,
+        'position': 3,
+        'slug': 'blanki-gramoty-konverty-knigi-ucheta',
+        'title': 'Бланки, грамоты, конверты, книги учета'
+      },
+      'id': 110576,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110573,
+        'level': 2,
+        'position': 4,
+        'slug': 'samokleyashchiesya-ehtiketki-cenniki-stikery',
+        'title': 'Самоклеящиеся этикетки, ценники, стикеры'
+      },
+      'id': 110577,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110573,
+        'level': 2,
+        'position': 5,
+        'slug': 'bumaga-dlya-ofisnoj-tekhniki',
+        'title': 'Бумага для офисной техники'
+      },
+      'id': 110578,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110579,
+        'level': 2,
+        'position': 1,
+        'slug': 'papki-registratory-arhivnye-papki',
+        'title': 'Папки-регистраторы, архивные папки'
+      },
+      'id': 110580,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110579,
+        'level': 2,
+        'position': 2,
+        'slug': 'fajly-dlya-dokumentov',
+        'title': 'Файлы для документов'
+      },
+      'id': 110581,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110579,
+        'level': 2,
+        'position': 3,
+        'slug': 'papki-plastikovye',
+        'title': 'Папки пластиковые'
+      },
+      'id': 110582,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110579,
+        'level': 2,
+        'position': 4,
+        'slug': 'papki-adresnye',
+        'title': 'Папки адресные'
+      },
+      'id': 110583,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110579,
+        'level': 2,
+        'position': 5,
+        'slug': 'papki-dlya-diplomnyh-rabot-portfolio',
+        'title': 'Папки для дипломных работ, портфолио'
+      },
+      'id': 110584,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110579,
+        'level': 2,
+        'position': 6,
+        'slug': 'planshety',
+        'title': 'Планшеты'
+      },
+      'id': 110585,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110579,
+        'level': 2,
+        'position': 7,
+        'slug': 'materialy',
+        'title': 'Материалы'
+      },
+      'id': 110586,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110587,
+        'level': 2,
+        'position': 1,
+        'slug': 'ruchki-linery',
+        'title': 'Ручки, линеры'
+      },
+      'id': 110588,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110587,
+        'level': 2,
+        'position': 2,
+        'slug': 'karandashi-melki',
+        'title': 'Карандаши, мелки'
+      },
+      'id': 110589,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110587,
+        'level': 2,
+        'position': 3,
+        'slug': 'markery-i-tekstovydeliteli',
+        'title': 'Маркеры и текстовыделители'
+      },
+      'id': 110590,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110587,
+        'level': 2,
+        'position': 4,
+        'slug': 'flomastery',
+        'title': 'Фломастеры'
+      },
+      'id': 110591,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110587,
+        'level': 2,
+        'position': 5,
+        'slug': 'podarochnye-nabory',
+        'title': 'Подарочные наборы'
+      },
+      'id': 110592,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110587,
+        'level': 2,
+        'position': 6,
+        'slug': 'tush-i-chernila',
+        'title': 'Тушь и чернила'
+      },
+      'id': 110593,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110587,
+        'level': 2,
+        'position': 7,
+        'slug': 'sterzhni-dlya-ruchek',
+        'title': 'Стержни для ручек'
+      },
+      'id': 110594,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110587,
+        'level': 2,
+        'position': 8,
+        'slug': 'kartridzh-dlya-ruchki-perya',
+        'title': 'Картридж для ручки, перья'
+      },
+      'id': 110595,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110587,
+        'level': 2,
+        'position': 9,
+        'slug': 'grifeli-dlya-karandashej-i-cirkulej',
+        'title': 'Грифели для карандашей и циркулей'
+      },
+      'id': 110596,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110597,
+        'level': 2,
+        'position': 1,
+        'slug': 'linejki-transportiry-treugolniki-trafarety',
+        'title': 'Линейки, транспортиры, треугольники, трафареты'
+      },
+      'id': 110598,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110597,
+        'level': 2,
+        'position': 2,
+        'slug': 'tochilki-lastiki',
+        'title': 'Точилки, ластики'
+      },
+      'id': 110599,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110597,
+        'level': 2,
+        'position': 3,
+        'slug': 'cirkuli-gotovalni',
+        'title': 'Циркули, готовальни'
+      },
+      'id': 110600,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110597,
+        'level': 2,
+        'position': 4,
+        'slug': 'izografy-rapidografy',
+        'title': 'Изографы, рапидографы'
+      },
+      'id': 110601,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110597,
+        'level': 2,
+        'position': 5,
+        'slug': 'tubusy-dlya-chertezhej',
+        'title': 'Тубусы для чертежей'
+      },
+      'id': 110602,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110597,
+        'level': 2,
+        'position': 6,
+        'slug': 'chertezhnaya-doska',
+        'title': 'Чертежная доска'
+      },
+      'id': 110603,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110604,
+        'level': 2,
+        'position': 1,
+        'slug': 'globusy',
+        'title': 'Глобусы'
+      },
+      'id': 110605,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110604,
+        'level': 2,
+        'position': 2,
+        'slug': 'kassa-bukv-schetnye-palochki',
+        'title': 'Касса букв, счетные палочки'
+      },
+      'id': 110606,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110607,
+        'level': 2,
+        'position': 1,
+        'slug': 'tetradi',
+        'title': 'Тетради'
+      },
+      'id': 110608,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110607,
+        'level': 2,
+        'position': 2,
+        'slug': 'karton-i-cvetnaya-bumaga',
+        'title': 'Картон и цветная бумага'
+      },
+      'id': 110609,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110607,
+        'level': 2,
+        'position': 3,
+        'slug': 'dnevniki-raspisanie-urokov',
+        'title': 'Дневники, расписание уроков'
+      },
+      'id': 110610,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110607,
+        'level': 2,
+        'position': 4,
+        'slug': 'oblozhki-dlya-uchebnikov-i-tetradej',
+        'title': 'Обложки для учебников и тетрадей'
+      },
+      'id': 110611,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110607,
+        'level': 2,
+        'position': 5,
+        'slug': 'albomy-i-papki-dlya-risovaniya',
+        'title': 'Альбомы и папки для рисования'
+      },
+      'id': 110612,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110607,
+        'level': 2,
+        'position': 6,
+        'slug': 'detskie-nozhnicy',
+        'title': 'Детские ножницы'
+      },
+      'id': 110613,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110607,
+        'level': 2,
+        'position': 7,
+        'slug': 'bumaga-vatman-papki-i-materialy-dlya-chercheniya',
+        'title': 'Бумага, ватман, папки и материалы для черчения'
+      },
+      'id': 110614,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110615,
+        'level': 2,
+        'position': 1,
+        'slug': 'ryukzaki',
+        'title': 'Рюкзаки'
+      },
+      'id': 110616,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110615,
+        'level': 2,
+        'position': 2,
+        'slug': 'rancy',
+        'title': 'Ранцы'
+      },
+      'id': 110617,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110615,
+        'level': 2,
+        'position': 3,
+        'slug': 'penaly',
+        'title': 'Пеналы'
+      },
+      'id': 110618,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110615,
+        'level': 2,
+        'position': 4,
+        'slug': 'meshki-dlya-obuvi-shkolnyj-fartuk',
+        'title': 'Мешки для обуви, школьный фартук'
+      },
+      'id': 110619,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110615,
+        'level': 2,
+        'position': 5,
+        'slug': 'papki-dlya-tetradej',
+        'title': 'Папки для тетрадей'
+      },
+      'id': 110620,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110622,
+        'level': 2,
+        'position': 1,
+        'slug': 'kist-shchetina',
+        'title': 'Кисть Щетина'
+      },
+      'id': 110623,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110622,
+        'level': 2,
+        'position': 2,
+        'slug': 'kist-sintetika',
+        'title': 'Кисть Синтетика'
+      },
+      'id': 110624,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110622,
+        'level': 2,
+        'position': 3,
+        'slug': 'kist-belka',
+        'title': 'Кисть Белка'
+      },
+      'id': 110625,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110622,
+        'level': 2,
+        'position': 4,
+        'slug': 'kist-kolonok',
+        'title': 'Кисть Колонок'
+      },
+      'id': 110626,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110622,
+        'level': 2,
+        'position': 5,
+        'slug': 'porolonovaya-kist',
+        'title': 'Поролоновая кисть'
+      },
+      'id': 110627,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110628,
+        'level': 2,
+        'position': 1,
+        'slug': 'akrilovye-kraski',
+        'title': 'Акриловые краски'
+      },
+      'id': 110629,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110628,
+        'level': 2,
+        'position': 2,
+        'slug': 'guash',
+        'title': 'Гуашь'
+      },
+      'id': 110630,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110628,
+        'level': 2,
+        'position': 3,
+        'slug': 'maslyanye-kraski',
+        'title': 'Масляные краски'
+      },
+      'id': 110631,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110628,
+        'level': 2,
+        'position': 4,
+        'slug': 'akvarelnye-kraski',
+        'title': 'Акварельные краски'
+      },
+      'id': 110632,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110628,
+        'level': 2,
+        'position': 5,
+        'slug': 'palchikovye-kraski',
+        'title': 'Пальчиковые краски'
+      },
+      'id': 110633,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110628,
+        'level': 2,
+        'position': 6,
+        'slug': 'tempernye-kraski',
+        'title': 'Темперные краски'
+      },
+      'id': 110634,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110635,
+        'level': 2,
+        'position': 1,
+        'slug': 'pastel-sangina-ugol',
+        'title': 'Пастель, сангина, уголь'
+      },
+      'id': 110636,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110635,
+        'level': 2,
+        'position': 2,
+        'slug': 'hudozhestvennye-karandashi',
+        'title': 'Художественные карандаши'
+      },
+      'id': 110637,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110635,
+        'level': 2,
+        'position': 3,
+        'slug': 'professionalnye-markery',
+        'title': 'Профессиональные маркеры'
+      },
+      'id': 110638,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110635,
+        'level': 2,
+        'position': 4,
+        'slug': 'palitry',
+        'title': 'Палитры'
+      },
+      'id': 110639,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110635,
+        'level': 2,
+        'position': 5,
+        'slug': 'rastushevki-lastik-klyachka',
+        'title': 'Растушевки, ластик-клячка'
+      },
+      'id': 110640,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110635,
+        'level': 2,
+        'position': 6,
+        'slug': 'mastihiny-steki',
+        'title': 'Мастихины, стеки'
+      },
+      'id': 110641,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110635,
+        'level': 2,
+        'position': 7,
+        'slug': 'neprolivajki-maslenki',
+        'title': 'Непроливайки, масленки'
+      },
+      'id': 110642,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110635,
+        'level': 2,
+        'position': 8,
+        'slug': 'perya-derzhateli',
+        'title': 'Перья, держатели'
+      },
+      'id': 110643,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110635,
+        'level': 2,
+        'position': 9,
+        'slug': 'manekeny-karnavalnye-maski',
+        'title': 'Манекены, карнавальные маски'
+      },
+      'id': 110644,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110646,
+        'level': 2,
+        'position': 1,
+        'slug': 'sketchbuki',
+        'title': 'Скетчбуки'
+      },
+      'id': 110647,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110646,
+        'level': 2,
+        'position': 2,
+        'slug': 'cvetnaya-bumaga',
+        'title': 'Цветная бумага'
+      },
+      'id': 110648,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110646,
+        'level': 2,
+        'position': 3,
+        'slug': 'albomy-dlya-risovaniya',
+        'title': 'Альбомы для рисования'
+      },
+      'id': 110649,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110646,
+        'level': 2,
+        'position': 4,
+        'slug': 'akvarelnaya-bumaga',
+        'title': 'Акварельная бумага'
+      },
+      'id': 110650,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110646,
+        'level': 2,
+        'position': 5,
+        'slug': 'bumaga-dlya-chercheniya',
+        'title': 'Бумага для черчения'
+      },
+      'id': 110651,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110646,
+        'level': 2,
+        'position': 6,
+        'slug': 'bumaga-dlya-pasteli',
+        'title': 'Бумага для пастели'
+      },
+      'id': 110652,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110646,
+        'level': 2,
+        'position': 7,
+        'slug': 'bumaga-dlya-masla-guashi-akrila',
+        'title': 'Бумага для масла, гуаши, акрила'
+      },
+      'id': 110653,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110646,
+        'level': 2,
+        'position': 8,
+        'slug': 'gruntovannyj-karton',
+        'title': 'Грунтованный картон'
+      },
+      'id': 110654,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110646,
+        'level': 2,
+        'position': 9,
+        'slug': 'kraft-bumaga-bumaga-dlya-grafiki',
+        'title': 'Крафт-бумага, бумага для графики'
+      },
+      'id': 110655,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110660,
+        'level': 2,
+        'position': 1,
+        'slug': 'tubusy',
+        'title': 'Тубусы'
+      },
+      'id': 110661,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110660,
+        'level': 2,
+        'position': 2,
+        'slug': 'hudozhestvennye-papki-sumki',
+        'title': 'Художественные папки, сумки '
+      },
+      'id': 110662,
+      'type': 'category'
+    },
+    {
+      'attributes': {
+        'ancestorID': 110660,
+        'level': 2,
+        'position': 3,
+        'slug': 'hudozhestvennye-penaly',
+        'title': 'Художественные пеналы'
+      },
+      'id': 110663,
+      'type': 'category'
+    }
+  ]
+}
