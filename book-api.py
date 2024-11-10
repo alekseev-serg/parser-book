@@ -1,6 +1,6 @@
 import requests
 
-token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3VzZXItcmlnaHQiLCJzdWIiOjIxNjc3ODA4LCJpYXQiOjE3MzEyMjcxMjksImV4cCI6MTczMTIzMDcyOSwidHlwZSI6MjB9.bOe5YMcQ-hg_BUskiYZAID0AIGWZEXzlaDNma0OR1Dw'
+token = ''
 
 url = 'https://web-gate.chitai-gorod.ru/api/v2/categories'
 
