@@ -7,7 +7,7 @@ url = 'https://web-gate.chitai-gorod.ru/api/v2/categories'
 
 def get_json(url):
     """
-    получаем HTML
+    получаем JSON
     """
     headers = {'Authorization': f'Bearer {token}'}
 
